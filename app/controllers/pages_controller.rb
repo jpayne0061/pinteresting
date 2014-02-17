@@ -5,7 +5,7 @@ class PagesController < ApplicationController
   def about
   end
 	
-	def mystical_cat_pics
-	end
+  def mystical_cat_pics
+  end
   
 end
