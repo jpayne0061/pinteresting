@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Capriola);
 
-$body-bg:  #95a5a6; 
+$body-bg: white; 
 
 $font-family-sans-serif: 'Capriola', sans-serif;
 $navbar-default-color: gray-lighter;
@@ -29,5 +29,8 @@ $navbar-default-bg: #7f8c8d;
   background-color: #CAD1D8;
 }
 
+.pin-panel {
+  background-color: #CAD1D8;
+}
 
 
